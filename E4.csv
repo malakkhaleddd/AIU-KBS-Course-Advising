@@ -1,0 +1,9 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+CSE335,Real Time & Embedded Systems,Covers design and programming of real-time and embedded systems for specific applications,,,3,Both,9,E4
+CSE446,Design Information & Computer Networks,Explores network design principles and information systems architecture,,,3,Both,9,E4
+CSE464,Security Internet of Things,Studies security challenges and solutions for IoT devices and networks,,,3,Both,9,E4
+CSE475,High Performance Computing,Covers advanced techniques for optimizing computational performance in large-scale systems,,,3,Both,9,E4
+CSE485,Computer Games Theory,Introduces game design principles including algorithms and game mechanics,,,3,Both,9,E4
+CSE487,Mixed & Augmented Reality,Explores development of mixed and augmented reality applications using AI and graphics,,,3,Both,9,E4
+CSE488,Visualization & Animation,Covers techniques for creating visualizations and animations in computer applications,,,3,Both,9,E4
+AIE314,AI-Based Programming,Teaches programming techniques leveraging AI tools and algorithms,,,3,Both,9,E4

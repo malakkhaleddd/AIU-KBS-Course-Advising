@@ -1,0 +1,43 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+MAT111,Mathmatics1,"This course provides a foundation in differential and integral calculus. Topics include limits, continuity, derivatives of algebraic and transcendental functions, applications of differentiation (such as optimization and curve sketching), definite and indefinite integrals, and basic techniques of integration. ",MAT123,,3,Fall,1,Core
+MAT123,Mechanics,Covers principles of statics and dynamics,,,3,Fall,1,Core
+MEC011,Engineering Drawing (1),Teaches technical drawing techniques,,,3,Fall,1,E2
+PHY212,Introduction to Engineering Physics,Explores fundamental physics concepts,,,3,Fall,1,Core
+CSE014,Structured Programming,Introduces programming fundamentals,,,3,Fall,1,Core
+MAT112,Mathematics II,Continues calculus with advanced topics,MAT111,,3,Spring,2,Core
+MAT131,Probability & Statistics I,Introduces probability theory,,,3,Spring,2,Core
+CSE015,Object Oriented Programming,Covers object-oriented programming,CSE014,,3,Spring,2,Core
+CSE315,Discrete Mathematics,Explores discrete structures,,,3,Spring,2,Core
+CSE011,Computer Skills,Mandatory non-credit computer literacy,,,0,Fall,2,University Requirement
+LAN022,English Language 1,Mandatory non-credit English skills,,,0,Fall,2,University Requirement
+MAT212,Linear Algebra,Covers vector spaces and matrices,,,3,Fall,3,Core
+CSE111,Data Structures,Introduces data structures,CSE015,,3,Fall,3,Core
+CSE113,Electric & Electronic Circuits,Explores fundamentals of circuits,PHY212,,3,Fall,3,Core
+CSE131,Logic Design,Covers digital logic design,,,3,Fall,3,Core
+MAT231,Probability & Statistics II,Advances probability techniques,MAT131,,3,Spring,4,Core
+MAT312,Differential Equations,Studies differential equations,MAT112,,3,Spring,4,Core
+CSE132,Computer Architecture & Organization,Explores computer system design,CSE131,,3,Spring,4,Core
+AIE111,Artificial Intelligence,Introduces AI concepts,CSE015,,3,Spring,4,Core
+CSE221,Database Systems,Covers database design,CSE111,,3,Fall,5,Core
+CSE233,Operating Systems,Explores operating system concepts,CSE111,,3,Fall,5,Core
+AIE121,Machine Learning,Introduces machine learning algorithms,AIE111,,3,Fall,5,Core
+AIE291,Field Training 1 in AI Engineering,Practical experience in AI,,,2,Fall,5,Core
+CSE112,Design & Analysis of Algorithms,Covers algorithm design techniques,CSE111,,4,Spring,6,Core
+CSE251,Software Engineering,Introduces software development methodologies,MAT212 & MAT112 & CSE015,,3,Spring,6,Core
+CSE261,Computer Networks,Covers network protocols,CSE132,,3,Spring,6,Core
+CSE281,Image Processing,Explores digital image manipulation,MAT212 & MAT112 & CSE015,,3,Spring,6,Core
+CSE234,Embedded Systems,Covers embedded systems design,CSE132,,3,Spring,6,Core
+ELE432,Digital Signal Processing,Introduces signal processing techniques,,,3,Fall,7,Core
+CSE363,Cloud Computing,Explores cloud architectures,CSE261,,3,Fall,7,Core
+CSE344,Introduction to Cyber Security,Covers fundamentals of cybersecurity,,,3,Fall,7,Core
+AIE241,Natural Language Processing,Techniques for processing human language,AIE121,,3,Fall,7,Core
+AIE323,Data Mining,Covers methods for extracting patterns,AIE121,,3,Fall,7,Core
+CSE383,Computer Vision,Covers image recognition techniques,CSE281,,3,Spring,8,Core
+AIE212,Knowledge-Based Systems,Explores expert systems,AIE111,,3,Spring,8,Core
+AIE213,Optimization Techniques,Covers optimization methods,MAT312,,3,Spring,8,Core
+AIE231,Neural Networks,Introduces neural network architectures,AIE121,,3,Spring,8,Core
+AIE392,Field Training 2 in AI Engineering,Advanced practical experience in AI,AIE291,,2,Spring,8,Core
+AIE351,Robotics Design,Principles of designing robotic systems,AIE111,,3,Fall,9,Core
+AIE493,Graduation Project 1,Capstone project applying AI,SENIOR STANDING,,3,Fall,9,Core
+AIE332,Deep Learning,Deep learning architectures,AIE231,,3,Spring,10,Core
+AIE494,Graduation Project 2,Completes the AI capstone project,AIE493,,3,Spring,10,Core

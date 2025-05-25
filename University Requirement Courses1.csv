@@ -1,0 +1,12 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+LAN021,English Language 0,Choose a university requirement course,,,0,Both,All,University Requirement
+LAN022,English Language 1,Choose a university requirement course,,,2,Both,All,University Requirement
+CSE011,Computer Skills,Choose a university requirement course,,,2,Both,All,University Requirement
+LAN011,Arabic Language,Choose a university requirement course,,,2,Both,All,University Requirement
+LAN010,Arabic Language for Non-Native Speakers,Choose a university requirement course,,,2,Both,All,University Requirement
+LAN114,Literary Appreciation,Choose a university requirement course,,,2,Both,All,University Requirement
+MGT301,Entrepreneurship and Innovation,Choose a university requirement course,,,2,Both,All,University Requirement
+LAN112,Critical Thinking,Choose a university requirement course,,,2,Both,All,University Requirement
+GEO217,Climate Change and Sustainability,Choose a university requirement course,,,2,Both,All,University Requirement
+PSC101,Introduction to Law and Human Rights,Choose a university requirement course,,,2,Both,All,University Requirement
+LIB116,Research and Analysis Skills,Choose a university requirement course,,,2,Both,All,University Requirement

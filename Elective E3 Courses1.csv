@@ -1,0 +1,8 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+CSE211,Web Programming,Covers web development technologies including HTML CSS and JavaScript,,,3,Both,9,E3
+CSE271,Introduction to Parallel Computing,Introduces parallel programming concepts and architectures for high-performance computing,,,3,Both,9,E3
+CSE272,Parallel & Distributed Systems,Explores design and implementation of distributed and parallel computing systems,,,3,Both,9,E3
+CSE322,Big Data Analytics 1,Covers techniques for analyzing large datasets including data processing and visualization,,,3,Both,9,E3
+CSE363,Cloud Computing,Explores cloud architectures services and deployment models,,,3,Both,9,E3
+CSE344,Introduction to Cyber Security,Covers fundamentals of cybersecurity including threats encryption and network security,,,3,Both,9,E3
+CSE382,Computer Graphics,Introduces graphics programming and rendering techniques for 2D and 3D visualization,,,3,Both,9,E3

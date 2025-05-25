@@ -1,0 +1,6 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+ELE115,Electrical Circuits & Measurements,Introduces electrical circuit analysis measurement techniques and instrumentation,,,3,Both,5,E2
+ELE215,Electronics & Digital Circuits,Covers electronic components and digital circuit design including transistors and logic gates,,,3,Both,5,E2
+ELE232,Fundamentals of Communication Systems,Explores principles of analog and digital communication systems and signal transmission,,,3,Both,5,E2
+ELE233,Automatic Control Systems,Studies control theory and design of systems for automation and stability,,,3,Both,5,E2
+ELE338,Wireless Communication Networks,Covers wireless network technologies protocols and signal propagation,,,3,Both,5,E2

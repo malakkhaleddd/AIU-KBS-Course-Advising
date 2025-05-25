@@ -1,0 +1,10 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+AIE418,Selected Topics in Artificial Intelligence 2,Explores advanced or niche AI topics such as novel algorithms or interdisciplinary applications,,,3,Both,10,Elective 6
+AIE426,Decision Making Under Uncertainty,Covers AI techniques for decision-making in uncertain environments including probabilistic models,,,3,Both,10,Elective 6
+AIE427,Statistical Pattern Recognition,Focuses on statistical methods for recognizing patterns in data for AI applications,,,3,Both,10,Elective 6
+AIE452,Cognitive Robotics,Covers AI-driven robotics focusing on perception and decision-making,,,3,Both,10,Elective 6
+AIE453,Planning Techniques for Robotics,Explores algorithms for robotic path planning and task scheduling,,,3,Both,10,Elective 6
+AIE454,Robot Kinematics & Dynamics,Studies the motion and forces governing robotic systems,,,3,Both,10,Elective 6
+AIE455,Robot Mapping & Localization,Covers techniques for robots to map environments and determine their position,,,3,Both,10,Elective 6
+AIE456,Human Robot Interaction,Explores designing interfaces for effective human-robot collaboration,,,3,Both,10,Elective 6
+AIE457,Mobile Robot Development,Focuses on the design and programming of autonomous mobile robots,,,3,Both,10,Elective 6

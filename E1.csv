@@ -1,0 +1,6 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+CHE142,Engineering Chemistry,Covers chemical principles and their applications in engineering materials and processes,,,3,Both,4,E1
+MAT121,Dynamics,Studies motion forces and energy in mechanical systems with applications in engineering,,,3,Both,4,E1
+MAT122,Statics,Explores equilibrium of forces and structures foundational for engineering design,,,3,Both,4,E1
+MAT315,Numerical Analysis,Introduces numerical methods for solving mathematical problems including approximation and simulation,,,3,Both,4,E1
+PHY211,Physics II,Covers advanced physics topics like electromagnetism and optics relevant to engineering applications,,,3,Both,4,E1

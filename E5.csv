@@ -1,0 +1,10 @@
+CourseCode,CourseName,Description,Prerequisites,CoRequisites,CreditHours,SemesterOffered,Semester,Category
+AIE315,Computational Logic,Explores logical reasoning and computational methods for AI problem-solving,,,3,Both,10,E5
+AIE316,Evolutionary Algorithms,Covers bio-inspired algorithms like genetic algorithms for optimization and search,,,3,Both,10,E5
+AIE322,Advanced Machine Learning,Explores advanced machine learning techniques including ensemble methods and deep learning,,,3,Both,10,E5
+AIE342,Advanced Methods for Data Analysis,Covers sophisticated techniques for analyzing complex datasets in AI applications,,,3,Both,10,E5
+AIE343,Machine Learning for Text Mining,Focuses on machine learning methods for extracting insights from text data,,,3,Both,10,E5
+AIE417,Selected Topics in Artificial Intelligence 1,Explores specialized topics in AI such as emerging algorithms or applications,,,3,Both,10,E5
+AIE424,Intelligent Decision Support Systems,Covers AI systems for aiding decision-making in complex environments,,,3,Both,10,E5
+AIE425,Intelligent Recommender Systems,Studies algorithms for personalized recommendations in AI-driven systems,,,3,Both,10,E5
+AIE444,Question Answering Systems,Explores techniques for building AI systems that answer natural language questions,,,3,Both,10,E5
